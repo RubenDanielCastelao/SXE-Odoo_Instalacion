@@ -110,8 +110,8 @@ Si el puerto 5432 está ocupado en tu máquina local, puedes cambiar el puerto e
 
 ### Configuración de Odoo
 
-![Captura de pantalla de la aplicación](https://github.com/RubenDanielCastelao/nombre_del_repositorio/raw/main/images/odoo-ejemplo.png)
+![Captura de pantalla de la aplicación](https://github.com/RubenDanielCastelao/nombre_del_repositorio/raw/master/images/odoo-ejemplo.png)
 
 ### Link a la base de datos en PhpStorm
 
-![Captura de pantalla de la base de datos](https://github.com/RubenDanielCastelao/nombre_del_repositorio/raw/main/images/odoo-db.png)
+![Captura de pantalla de la base de datos](https://github.com/RubenDanielCastelao/nombre_del_repositorio/raw/master/images/odoo-db.png)
